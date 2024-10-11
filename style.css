@@ -30,7 +30,7 @@ h2 {
 
 footer {
   text-align: right;
-  color: hotpink;
+  color: orangered;
 }
 
 .left {
@@ -49,7 +49,7 @@ footer {
 }
 
 .creative {
-  color: hotpink;
+  color: orangered;
 }
 
 .logo-block {
@@ -63,7 +63,7 @@ footer {
   height: auto;
 }
 h3 {
-  color: hotpink;
+  color: orangered;
   margin: 0;
 }
 
@@ -73,7 +73,7 @@ h6 {
 }
 
 a {
-  color: hotpink;
+  color: orangered;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.08rem;
